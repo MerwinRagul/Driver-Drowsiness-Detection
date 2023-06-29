@@ -11,3 +11,4 @@ Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of 
 
 Condition
 It checks 20 consecutive frames and if the Eye Aspect ratio is lesst than 0.25, Alert is generated.
+
